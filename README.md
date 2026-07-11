@@ -12,12 +12,12 @@
 <img src="https://raw.githubusercontent.com/marmeladka-23/fly-cat/refs/heads/main/Assets/image/st_1.gif" width="480" height="270" />
 
 - Пример механики порталов
-![Gameplay](https://raw.githubusercontent.com/marmeladka-23/fly-cat/refs/heads/main/Assets/image/st_2.gif)
+<img src="https://raw.githubusercontent.com/marmeladka-23/fly-cat/refs/heads/main/Assets/image/st_2.gif" width="480" height="270" />
 
 ## Примеры
 
 - Третий уровень из демо версии игры
-![Screenshot](Assets/image/level.webp)
+![Screenshot](Assets/image/level.jpg)
 
 ## Будущее
 
