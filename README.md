@@ -8,7 +8,8 @@
 
 ## Gameplay
 
-![Gameplay](https://raw.githubusercontent.com/marmeladka-23/endless-runner-prototype/refs/heads/main/Assets/pictures/GamePlay.gif)
+![Gameplay](https://raw.githubusercontent.com/marmeladka-23/fly-cat/refs/heads/main/Assets/image/st_1.gif)
+![Gameplay](https://raw.githubusercontent.com/marmeladka-23/fly-cat/refs/heads/main/Assets/image/st_2.gif)
 
 ## Screenshot
 
