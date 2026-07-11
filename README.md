@@ -2,40 +2,35 @@
 
 2D платформер, разработанный на Unity. Игроку потребуется смекалка для прохождения различных головоломок,  которые меняют пространство.
 
-## About
+## О проекте
 
 Цель проекта - разработать программную подсистему, обеспечивающую нелинейное прохождение уровней двумерного платформера с механикой свертки пространства за счет двух взаимосвязанных механик.
 
-## Gameplay
+## Геймплей
 
-![Gameplay](https://raw.githubusercontent.com/marmeladka-23/fly-cat/refs/heads/main/Assets/image/st_1.gif)
+- Пример механики разлома
+<img src="https://raw.githubusercontent.com/marmeladka-23/fly-cat/refs/heads/main/Assets/image/st_1.gif" width="480" height="270" />
+
+- Пример механики порталов
 ![Gameplay](https://raw.githubusercontent.com/marmeladka-23/fly-cat/refs/heads/main/Assets/image/st_2.gif)
 
-## Screenshot
+## Примеры
 
+- Третий уровень из демо версии игры
 ![Screenshot](Assets/image/level.webp)
 
-## Features
+## Будущее
 
-- Random obstacle generation
-- Global Score system
-- Local save game
-- Simple UI
+- Сохранение прогресса в демо версии
+- Разработка новых обьектов для взаимодействия
+- Улучшить редактор Unity для упрощенного лвл-дизайна
+- Улучшение взаимодействия игрока с миром
 
-## Built With
+## Программа
 
-- Godot 4
-- GDScript
+- Unity 6
+- URP 17.4.0 с 2D Renderer
 
-## My Contribution
+## Скачать-
 
-- Gameplay programming
-- UI implementation
-- Player controller
-- Obstacle spawning
-- Score system
-- Assets
-
-## Download
-
-Download the latest build from the [**Releases**](https://github.com/marmeladka-23/endless-runner-prototype/releases/tag/v1.0) section.
+Можно скачать демо версию игры [**по ссылке**](https://github.com/marmeladka-23/fly-cat/releases/tag/v1.0).
