@@ -31,6 +31,6 @@
 - Unity 6
 - URP 17.4.0 с 2D Renderer
 
-## Скачать-
+## Скачать
 
 Можно скачать демо версию игры [**по ссылке**](https://github.com/marmeladka-23/fly-cat/releases/tag/v1.0).
