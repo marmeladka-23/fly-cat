@@ -1,19 +1,18 @@
 # fly-cat
-# Endless Runner Prototype
 
-A 2D arcade game prototype developed in Godot.
+2D платформер, разработанный на Unity. Игроку потребуется смекалка для прохождения различных головоломок,  которые меняют пространство.
 
 ## About
 
-This project recreates the core gameplay of Flappy Bird while demonstrating gameplay programming and game mechanics implementation.
-
-## Screenshot
-
-![Screenshot](Assets/pictures/screenshot1.webp)
+Цель проекта - разработать программную подсистему, обеспечивающую нелинейное прохождение уровней двумерного платформера с механикой свертки пространства за счет двух взаимосвязанных механик.
 
 ## Gameplay
 
 ![Gameplay](https://raw.githubusercontent.com/marmeladka-23/endless-runner-prototype/refs/heads/main/Assets/pictures/GamePlay.gif)
+
+## Screenshot
+
+![Screenshot](Assets/image/level.webp)
 
 ## Features
 
