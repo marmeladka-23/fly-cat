@@ -1,0 +1,24 @@
+﻿{
+  "permissions": {
+    "allow": [
+      "Read(Assets/**)",
+      "Read(Packages/**)",
+      "Read(ProjectSettings/**)",
+      "Edit(Assets/Scripts/**)",
+      "Write(Assets/Scripts/**)",
+      "Bash(dotnet build *)",
+      "Bash(git status)",
+      "Bash(git diff *)",
+      "Bash(git log *)"
+    ],
+    "deny": [
+      "Edit(Library/**)",
+      "Edit(Temp/**)",
+      "Edit(Logs/**)",
+      "Edit(obj/**)",
+      "Edit(*.csproj)",
+      "Edit(*.sln)",
+      "Edit(Assets/**/*.meta)"
+    ]
+  }
+}
